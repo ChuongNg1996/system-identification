@@ -1,0 +1,11 @@
+_To use MATLAB packages, add "Parents" folder to MATLAB path (instead of the package folders). To do that, open MATLAB, then HOME Tab, then click on Set Path, then click on Add Folder, then add the link to parent folder.
+
+Notes:
+_ The class definition file must have the same name as the class folder (without the @ character).
+_ To create subpackages (e.g.: to store functions) under main package, use "+" again for the folder name.
+
+References:
+_ Packages Create Namespaces: https://www.mathworks.com/help/matlab/matlab_oop/scoping-classes-with-packages.html
+_ Folders Containing Class Definitions: https://www.mathworks.com/help/matlab/matlab_oop/organizing-classes-in-folders.html
+_ Initialize Property Values (in a class): https://www.mathworks.com/help/matlab/matlab_oop/initialize-property-values.html
+_ Creating a Simple Class: https://www.mathworks.com/help/matlab/matlab_oop/create-a-simple-class.html 
